@@ -41,7 +41,7 @@
 
 16. Youtube: [NFS](https://youtu.be/wOQym_iOULE) 
 
-17. Youtube: [NFS](hhttps://www.youtube.com/watch?v=7GVUzdeo9Xk)
+17. Youtube: [NFS](https://www.youtube.com/watch?v=7GVUzdeo9Xk)
 
 18. Youtube: [Mainframes](https://www.youtube.com/watch?v=_8FgWep9qEk) 
 
@@ -59,4 +59,4 @@
 
 25. Youtube: [Internet of Things](https://www.youtube.com/watch?v=h0gWfVCSGQQ)
 
-26. Youtube: [Continerization](hhttps://www.youtube.com/watch?v=0qotVMX-J5s)
+26. Youtube: [Continerization](https://www.youtube.com/watch?v=0qotVMX-J5s)
