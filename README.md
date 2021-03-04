@@ -41,4 +41,4 @@ For full credit, by the end of the sprint you will need to have evidence of the 
 
 Complete rubrics are available for each metric above on the course [Trello board](https://trello.com/c/Pw5RMuYj/9-sprint-rubrics "CSC 412 Trello Board - Spring Rubrics").
 
-All items should be in your Github repository before 11:55pm on Friday, March 5th.
+All items should be in your Github repository before 11:55pm on Friday, March 12th.
