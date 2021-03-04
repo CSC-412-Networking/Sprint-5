@@ -12,7 +12,7 @@ For this sprint, you will only be picking one of the following sets of topics:
 1. Servers/server farms, NFS, Mainframes
 2. Virtual Machines, Containerization, Cloud Services, Internet of Things
 3. Net Neutrality, Freedom of Speech
-4. Privacy, Social Networks
+4. Privacy, Social Networks, Copyright
 
 ## Known Resources
 
