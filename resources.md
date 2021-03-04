@@ -5,7 +5,7 @@
 1. Servers/server farms, NFS, Mainframes
 2. Virtual Machines, Containerization, Cloud Services, Internet of Things
 3. Net Neutrality, Freedom of Speech
-4. Privacy, Social Networks
+4. Privacy, Social Networks, Copyright
 
 ## Resources:
 
@@ -60,3 +60,9 @@
 25. Youtube: [Internet of Things](https://www.youtube.com/watch?v=h0gWfVCSGQQ)
 
 26. Youtube: [Continerization](https://www.youtube.com/watch?v=0qotVMX-J5s)
+
+27. Website: [Net Neutrality from the Government's prespective](https://obamawhitehouse.archives.gov/net-neutrality)
+
+28. Website: [Net Neutrality](https://www.publicknowledge.org/issues/net-neutrality/)
+
+29.
