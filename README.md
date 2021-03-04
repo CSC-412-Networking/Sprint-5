@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 - Develop a basic understanding of Ethics and DevOps
-- Explore in-depth topics inEthics and DevOps
+- Explore in-depth topics in Ethics and DevOps
 - Examine the relationship between two or more Ethics and DevOps components
 
 ## Topics:
