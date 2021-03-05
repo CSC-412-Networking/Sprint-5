@@ -59,7 +59,7 @@
 
 25. Youtube: [Internet of Things](https://www.youtube.com/watch?v=h0gWfVCSGQQ)
 
-26. Youtube: [Continerization](https://www.youtube.com/watch?v=0qotVMX-J5s)
+26. Youtube: [Containerization](https://www.youtube.com/watch?v=0qotVMX-J5s)
 
 27. Website: [Net Neutrality from the Government's prespective](https://obamawhitehouse.archives.gov/net-neutrality)
 
