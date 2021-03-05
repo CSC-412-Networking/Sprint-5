@@ -37,8 +37,8 @@ For full credit, by the end of the sprint you will need to have evidence of the 
 - **Read and retrospective**: Composed of your sprint retrospectives, feedback on resources, reflections on process
 - **Plan**: Composed of your Trello board activity and issue queue completeness
 - **Build**: Composed of your code repository, code quality, build completeness, and code documentation
-- **Demonstration**: Composed of your Friday demonstration, including topic coverage, clarity of presentation, and how well you are addressing questions
+- **Demonstration**: Composed of your Friday or Monday demonstration, including topic coverage, clarity of presentation, and how well you are addressing questions
 
 Complete rubrics are available for each metric above on the course [Trello board](https://trello.com/c/Pw5RMuYj/9-sprint-rubrics "CSC 412 Trello Board - Spring Rubrics").
 
-All items should be in your Github repository before 11:55pm on Friday, March 12th.
+All items should be in your Github repository before 11:55pm on Wednesday, March 17th.
