@@ -19,7 +19,7 @@
 
 5. Book: [Mainframes](https://book.systemsapproach.org/foundation/problem.html?highlight=mainframe) (Section: Problem: Building a Network)
 
-6. Book: [Virtual Machines](hhttps://book.systemsapproach.org/internetworking/trend.html?highlight=virtual%20machine) (Section: Perspective: Virtual Networks All the Way Down)
+6. Book: [Virtual Machines](https://book.systemsapproach.org/internetworking/trend.html?highlight=virtual%20machine) (Section: Perspective: Virtual Networks All the Way Down)
 
 7. Book: [Virtual Machines](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=53) (Page 29)
 
