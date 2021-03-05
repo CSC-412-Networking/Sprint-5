@@ -5,7 +5,7 @@
 1. Servers/server farms, NFS, Mainframes
 2. Virtual Machines, Containerization, Cloud Services, Internet of Things
 3. Net Neutrality, Freedom of Speech
-4. Privacy, Social Networks
+4. Privacy, Social Networks, Copyright
 
 ## Resources:
 
@@ -60,3 +60,45 @@
 25. Youtube: [Internet of Things](https://www.youtube.com/watch?v=h0gWfVCSGQQ)
 
 26. Youtube: [Continerization](https://www.youtube.com/watch?v=0qotVMX-J5s)
+
+27. Website: [Net Neutrality from the Government's prespective](https://obamawhitehouse.archives.gov/net-neutrality)
+
+28. Website: [Net Neutrality](https://www.publicknowledge.org/issues/net-neutrality/)
+
+29. Book: [Freedom of Speech](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=887) (Page 863-867)
+
+30. Website: [Freedom of Speech on the internet (several extra resources listed in this website)](https://cyber.harvard.edu/ilaw/Speech/)
+
+31. Book: [Privacy](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=884) (Page 860-863)
+
+32. Website: [Online Privacy: Using the Internet Safely](https://privacyrights.org/consumer-guides/online-privacy-using-internet-safely)
+
+33. Website: [Social Networking Privacy: How to be Safe, Secure and Social](https://privacyrights.org/consumer-guides/social-networking-privacy-how-be-safe-secure-and-social)
+
+34. Website: [Social Network Security: Risks and Solutions](https://www.cse.wustl.edu/~jain/cse571-09/ftp/social/index.html)
+
+35. Book: [Copyright Overview](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=891) (Page 867-869)
+
+36. Website: [Copyright in the Cyberspace](https://lawforcomputerscientists.pubpub.org/pub/yjwfiwk5/release/8)
+
+37. Youtube: [Net Neutrality explained](https://www.youtube.com/watch?v=p90McT24Z6w)
+
+38. Youtube: [What is Net Neutrality?](https://www.youtube.com/watch?v=zq-2Yk5OgKc)
+
+39. Youtube: [Free Speech Online](https://www.youtube.com/watch?v=F9wo51gxEi0)
+
+40. Youtube: [Freedom of Speech Online](https://www.youtube.com/watch?v=uA4yeDwaHD0)
+
+41. Youtube: [Privacy Online](https://www.youtube.com/watch?v=jxeeKKfjb5o)
+
+42. Youtube: [Internet Battle of Privacy](https://www.youtube.com/watch?v=rKmO1nPGrVc)
+
+43. LinkedIn Learning: [Online Privacy](https://www.linkedin.com/learning/digital-citizenship/online-privacy?resume=false&u=49112041)
+
+44. Youtube: [Social Media Privacy](https://www.youtube.com/watch?v=sMLVkBxke20)
+
+45. Youtube: [Beware Social Media](https://www.youtube.com/watch?v=bGSjUYLTODE)
+
+46. LinkedIn Learning: [Copyright elements](https://www.linkedin.com/learning/understanding-copyright-a-deeper-dive/introduction-to-copyright-law?u=49112041)
+
+47. Youtube: [Copyright, public domain and fair use](https://www.youtube.com/watch?v=XzzkSZ0Jrko)
