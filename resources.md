@@ -2,9 +2,9 @@
 
 ## Topics:
 
-1. DevOps: Servers, server farms, NFS, Mainframes
-2. Virtual Machines: VMs, Containerization, Cloud Services, Internet of Things
-3. Ethics: Net Neutrality, Freedom of Speech, Privacy, Social Networks, Copyright
+1. **DevOps:** Servers, server farms, NFS, Mainframes
+2. **Virtual Machines:** VMs, Containerization, Cloud Services, Internet of Things
+3. **Ethics:** Net Neutrality, Freedom of Speech, Privacy, Social Networks, Copyright
 
 ## Resources:
 
