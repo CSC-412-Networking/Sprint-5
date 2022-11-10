@@ -19,7 +19,7 @@ For this sprint, you will only be picking one of the following sets of topics:
 You are encouraged to use the following resources, as well as seek out your own. Keep tally of ALL the resources you use; they will be submitted at the end of the sprint.
 
 - [Sprint Resources](resources.md "Resources for this Sprint")
-- [The Slack Channel](https://bereacs.slack.com/archives/C3RLWHHV4 "CSC 412 Slack Channel")
+- [The Slack Channel](https://trello.com/b/ZCZcI7ng/csc-412-networking "CSC 412 Slack Channel") 
 
 ## Action items
 
@@ -39,6 +39,6 @@ For full credit, by the end of the sprint you will need to have evidence of the 
 - **Build**: Composed of your code repository, code quality, build completeness, and code documentation
 - **Demonstration**: Composed of your Friday or Monday demonstration, including topic coverage, clarity of presentation, and how well you are addressing questions
 
-Complete rubrics are available for each metric above on the course [Trello board](https://trello.com/c/Pw5RMuYj/9-sprint-rubrics "CSC 412 Trello Board - Spring Rubrics").
+Complete rubrics are available for each metric above on the course [Trello board](https://trello.com/b/ZCZcI7ng/csc-412-networking "CSC 412 Trello Board - Fall Rubrics").
 
 All items should be in your Github repository before **FIXME**.
