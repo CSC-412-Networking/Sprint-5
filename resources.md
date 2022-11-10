@@ -64,11 +64,11 @@
 
 28. Website: [Net Neutrality](https://www.publicknowledge.org/issues/net-neutrality/)
 
-29. Book: [Freedom of Speech](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=887) (Page 863-867)
+29. **FIXME** Book: [Freedom of Speech](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=887) (Page 863-867)
 
 30. Website: [Freedom of Speech on the internet (several extra resources listed in this website)](https://cyber.harvard.edu/ilaw/Speech/)
 
-31. Book: [Privacy](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=884) (Page 860-863)
+31. **FIXME** Book: [Privacy](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=884) (Page 860-863)
 
 32. Website: [Online Privacy: Using the Internet Safely](https://privacyrights.org/consumer-guides/online-privacy-using-internet-safely)
 
