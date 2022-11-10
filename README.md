@@ -9,10 +9,10 @@
 
 For this sprint, you will only be picking one of the following sets of topics:
 
-1. Servers/server farms, NFS, Mainframes
-2. Virtual Machines, Containerization, Cloud Services, Internet of Things
-3. Net Neutrality, Freedom of Speech
-4. Privacy, Social Networks, Copyright
+1. **DevOps:** Servers, server farms, NFS, Mainframes
+2. **Virtual** Machines: VMs, Containerization, Cloud Services, Internet of Things
+3. **Ethics:** Net Neutrality, Freedom of Speech, Privacy, Social Networks, Copyright
+
 
 ## Known Resources
 
@@ -41,4 +41,4 @@ For full credit, by the end of the sprint you will need to have evidence of the 
 
 Complete rubrics are available for each metric above on the course [Trello board](https://trello.com/c/Pw5RMuYj/9-sprint-rubrics "CSC 412 Trello Board - Spring Rubrics").
 
-All items should be in your Github repository before 11:55pm on Wednesday, March 17th.
+All items should be in your Github repository before **FIXME**.
