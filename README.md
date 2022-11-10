@@ -36,7 +36,7 @@ On **FIXME**, first drafts of your product are due before class begins. Peer rev
 
 On **FIXME**, your final products are due before class begins. All materials for your product should be in Github, including the exam and retrospective files. In class, teamwork assignments will be completed. You will be responsible for facilitating one teamwork (i.e., your sprint topic), and completing two other teamworks. Each teamwork will have exactly __ minutes (TBD after Sprint 0 retrospective discussion), at which point we will transition to the next topic.
 
-Homeworks also come out this Tuesday. They are to be completed outside of class, alone, and are due on Monday, September 26th by 11:55pm.
+Homeworks also come out this Tuesday. They are to be completed outside of class, alone, and are due on**FIXME** by 11:55pm.
 
 On **FIXME**, the sprint officially ends with a retrospective. A retrospective is an intentional look back on the sprint, to find ways to improve them for the next round of sprints. Then, a new sprint begins!
 
