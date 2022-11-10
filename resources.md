@@ -8,7 +8,7 @@
 
 ## Resources:
 
-1. Book: [Server Farms](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=762) (Page 738)
+1. **FIXME**Book: [Server Farms](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=762) (Page 738)
 
 2. Book: [NFS](https://book.systemsapproach.org/e2e/rpc.html?highlight=nfs) (Section: 5.3)
 
@@ -20,7 +20,7 @@
 
 6. Book: [Virtual Machines](https://book.systemsapproach.org/internetworking/trend.html?highlight=virtual%20machine) (Section: Perspective: Virtual Networks All the Way Down)
 
-7. Book: [Virtual Machines](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=53) (Page 29)
+7. **FIXME** Book: [Virtual Machines](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=53) (Page 29)
 
 8. Book: [Cloud Services](https://book.systemsapproach.org/scaling/trend.html?highlight=cloud%20services) (Section: Perspective: The Cloud is Eating the Internet)
 
