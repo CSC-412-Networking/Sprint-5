@@ -6,9 +6,9 @@
 2. **Virtual Machines:** VMs, Containerization, Cloud Services, Internet of Things
 3. **Ethics:** Net Neutrality, Freedom of Speech, Privacy, Social Networks, Copyright
 
-## Resources:
+## Resources: 
 
-1. **FIXME**Book: [Server Farms](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=762) (Page 738)
+1. Book: [Server Farms](https://drive.google.com/file/d/1XCL5hgPwuXTarkR1D1kA24PiNcBdBYtc/view) (Page 738)
 
 2. Book: [NFS](https://book.systemsapproach.org/e2e/rpc.html?highlight=nfs) (Section: 5.3)
 
@@ -20,7 +20,7 @@
 
 6. Book: [Virtual Machines](https://book.systemsapproach.org/internetworking/trend.html?highlight=virtual%20machine) (Section: Perspective: Virtual Networks All the Way Down)
 
-7. **FIXME** Book: [Virtual Machines](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=53) (Page 29)
+7. Book: [Virtual Machines](https://drive.google.com/file/d/1XCL5hgPwuXTarkR1D1kA24PiNcBdBYtc/view) (Page 29)
 
 8. Book: [Cloud Services](https://book.systemsapproach.org/scaling/trend.html?highlight=cloud%20services) (Section: Perspective: The Cloud is Eating the Internet)
 
@@ -30,7 +30,7 @@
 
 11. Website: [Internet of Things](https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/6) 
 
-12. **FIXME** Website: [Containerization](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=576) 
+12. Book: [Containerization](https://drive.google.com/file/d/1XCL5hgPwuXTarkR1D1kA24PiNcBdBYtc/view) (Page 576) 
 
 13. Website: [Server Farms](https://itsyndicate.org/blog/what-is-server-farm/)
 
@@ -64,11 +64,11 @@
 
 28. Website: [Net Neutrality](https://www.publicknowledge.org/issues/net-neutrality/)
 
-29. **FIXME** Book: [Freedom of Speech](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=887) (Page 863-867)
+29. Book: [Freedom of Speech](https://drive.google.com/file/d/1XCL5hgPwuXTarkR1D1kA24PiNcBdBYtc/view) (Page 863-867)
 
 30. Website: [Freedom of Speech on the internet (several extra resources listed in this website)](https://cyber.harvard.edu/ilaw/Speech/)
 
-31. **FIXME** Book: [Privacy](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=884) (Page 860-863)
+31. Book: [Privacy](https://drive.google.com/file/d/1XCL5hgPwuXTarkR1D1kA24PiNcBdBYtc/view) (Page 860-863)
 
 32. Website: [Online Privacy: Using the Internet Safely](https://privacyrights.org/consumer-guides/online-privacy-using-internet-safely)
 
@@ -76,7 +76,7 @@
 
 34. Website: [Social Network Security: Risks and Solutions](https://www.cse.wustl.edu/~jain/cse571-09/ftp/social/index.html)
 
-35. **FIXME** Book: [Copyright Overview](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=891) (Page 867-869)
+35. Book: [Copyright Overview](https://drive.google.com/file/d/1XCL5hgPwuXTarkR1D1kA24PiNcBdBYtc/view) (Page 867-869)
 
 36. Website: [Copyright in the Cyberspace](https://lawforcomputerscientists.pubpub.org/pub/yjwfiwk5/release/8)
 
