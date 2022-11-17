@@ -19,7 +19,8 @@ For this sprint, you will only be picking one of the following sets of topics:
 You are encouraged to use the following resources, as well as seek out your own. Keep tally of ALL the resources you use; they will be submitted at the end of the sprint.
 
 - [Sprint Resources](resources.md "Resources for this Sprint")
-- [The Slack Channel](https://trello.com/b/ZCZcI7ng/csc-412-networking "CSC 412 Slack Channel") 
+- [The Trello Board](https://trello.com/b/ZCZcI7ng/csc-412-networking "CSC 412 Trello Board")
+- [The Slack Channel](https://bereacs.slack.com "The Slack Channel") 
 
 ## Sprint Expectations
 
